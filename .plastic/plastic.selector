@@ -1,0 +1,4 @@
+repository "crazy  shopping@SinerjiSoftGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
